@@ -1,0 +1,19 @@
+{
+  "name": "sp_daemon",
+  "version": "1.0.0",
+  "description": "",
+	"dependencies": {
+	"bluebird": "^3.5.0",
+	"body": "^5.1.0",
+	"body-parser": "^1.17.2",
+	"express": "^4.15.3",
+	"pg-promise": "^5.9.7",
+	"random-int": "^1.0.0"
+  },
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

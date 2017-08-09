@@ -1,0 +1,12 @@
+{	
+	"id": 1000,
+	"serial_port": "/dev/ttyUSB0",
+	"timeout": 0.1,
+	"baud_rate": 115200,
+	"host": "192.168.222.153",
+	"port": 5432,
+	"database": "apprio_pi_hub",
+	"user": "master",
+	"password": ".U%pqQ$rgfKvlp/"
+
+}
