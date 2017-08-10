@@ -11,14 +11,7 @@ var options = {
 }
 
 var pgp = require('pg-promise')(options)
-var cn = {
-			host: config.host,
-			port: config.port,
-			database: config.database,
-			user: config.user,
-			password: config.password
-		}
 
-var db = pgp(cn);
+var db = pgp(config.dbURL);
 
 module.exports = db

@@ -1,12 +1,8 @@
 {	
-	"id": 1000,
+	"id": 1002,
 	"serial_port": "/dev/ttyUSB0",
 	"timeout": 0.1,
 	"baud_rate": 115200,
-	"host": "192.168.222.153",
-	"port": 5432,
-	"database": "apprio_pi_hub",
-	"user": "master",
-	"password": ".U%pqQ$rgfKvlp/"
+	"dbURL": "postgres://mxtnxulynacpcj:f341e82d34b37bd59dc6b92ce133863eafa9caa80c5eccfbe06cedde1b1a59f0@ec2-54-235-168-152.compute-1.amazonaws.com:5432/d6kcqlbbrac5bn?ssl=true"
 
 }

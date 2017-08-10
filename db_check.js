@@ -10,12 +10,12 @@ var DBDaemon = function() {
 	self.init = function() {
 		console.log('Waking up DBDaemon...')
 		self.updateDatabase(function(err) {
-			if (err === null) {
-				console.log("Database successfully updated.")
-			}
-			else {
+			if (err) {
 				console.log("Could not update database.")
 				console.log(err)
+			}
+			else {
+				console.log("Database successfully updated.")
 			}
 			process.exit(1)
 		})
@@ -26,12 +26,12 @@ var DBDaemon = function() {
 		var query = "UPDATE hub SET power = $2, source = $3 WHERE id = $1"
 		console.log('Attempting to update database...')
 		db.none(query, [id, power, source])
-			.then(function() {
-				completion(null)
-		        })
-		            .catch(function(err) {
-		            completion(err)
-		        	})
+		.then(function() {
+			completion(null)
+			})
+		.catch(function(err) {
+		completion(err)
+		})
 	}
 }
 
