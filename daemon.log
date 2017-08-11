@@ -1,0 +1,1483 @@
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 12:55:01.201764
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.7s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:00:02.046470
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 26.8s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:05:01.989907
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 17.1s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:10:01.297200
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:15:01.750962
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:20:01.322008
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 24.5s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:25:01.987875
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:30:01.399085
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.6s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:35:01.159993
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 11.6s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:40:01.935877
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 66.8s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:45:01.856806
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 6.6s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:50:01.623717
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 12.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 13:55:02.095402
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 11.5s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:00:01.756692
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.8s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:05:01.676698
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.2s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:10:02.053703
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.9s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:15:01.138174
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:20:01.695332
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 11.4s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:25:01.195394
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '24',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-10 14:30:01.628678
+ID: 1002, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub data...
+Successfully retrieved Hub data:
+power = 
+source = 
+Check successful.
+[completed in 1.3s]
+#############################################
+#############################################
+2017-08-10 14:40:01.951193
+ID: 1002, SERIAL_PORT: /dev/tty.usbserial, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 14:45:02.147169
+ID: 1002, SERIAL_PORT: /dev/tty.usbserial, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 14:50:01.350754
+ID: 1002, SERIAL_PORT: /dev/tty.usbserial, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 14:55:01.538781
+ID: 1002, SERIAL_PORT: /dev/tty.usbserial, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1002 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-10 15:00:01.714331
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 1.8s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-10 15:05:01.991949
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 9.2s]
+#############################################
+#############################################
+2017-08-10 15:10:01.330916
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:15:01.507688
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:20:01.779345
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:25:01.954862
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:30:02.129622
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:35:01.349060
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:40:01.542177
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:45:01.755426
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:50:01.959765
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 15:55:02.148109
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-10 16:00:01.364086
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-10 16:05:01.539298
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 1.8s]
+#############################################
+#############################################
+2017-08-11 08:55:31.683787
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:00:01.894823
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:05:02.091404
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:10:01.283206
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:15:01.468054
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:20:01.751216
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:25:01.940168
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:30:02.131640
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:35:01.316401
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:40:01.503184
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Could not update database.
+{ error: invalid input syntax for integer: "NaN"
+    at Connection.parseE (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:539:11)
+    at Connection.parseMessage (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:366:17)
+    at TLSSocket.<anonymous> (/home/pi/apprio-hms-daemon/node_modules/pg/lib/connection.js:105:22)
+    at emitOne (events.js:115:13)
+    at TLSSocket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at TLSSocket.Readable.push (_stream_readable.js:197:10)
+    at TLSWrap.onread (net.js:589:20)
+  name: 'error',
+  length: 96,
+  severity: 'ERROR',
+  code: '22P02',
+  detail: undefined,
+  hint: undefined,
+  position: '36',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'numutils.c',
+  line: '62',
+  routine: 'pg_atoi' }
+#############################################
+2017-08-11 09:45:01.764995
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 0
+source = 
+temperature = 42
+Check successful.
+[completed in 2.0s]
+#############################################
+#############################################
+2017-08-11 09:50:01.978277
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 09:55:01.159687
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:00:01.340436
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:05:01.519873
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:10:01.697973
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:15:01.884581
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:20:02.160930
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:25:01.344290
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:30:01.525686
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:35:01.709516
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:40:01.893068
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:45:02.077198
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:50:01.261776
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 10:55:01.443677
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:00:02.138535
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:05:01.353308
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:10:01.542745
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:15:01.721085
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:20:01.991025
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:25:01.170587
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:30:01.348444
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:35:01.526757
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:40:01.705855
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:45:01.882966
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:50:02.057891
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 11:55:01.232754
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 12:00:01.409732
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 12:05:20.893602
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 12:10:02.095382
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+#############################################
+2017-08-11 12:15:01.281950
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Something went wrong with the serial port. Unable to retrieve Hub data.
+Check unsuccessful.
+[completed in 0.0s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-11 12:20:01.537036
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 3.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-11 12:25:02.016784
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 2.3s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-11 12:30:01.525190
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 42
+Check successful.
+[completed in 1.7s]
+#############################################
+Waking up DBDaemon...
+Attempting to update database...
+Database successfully updated.
+#############################################
+2017-08-11 12:35:01.476164
+ID: 1001, SERIAL_PORT: /dev/ttyUSB0, BAUDRATE: 115200, TIMEOUT: 0.10
+Database update for Hub with ID 1001 initiated.
+Attempting to retrieve Hub and Pi data...
+Successfully retrieved Hub and Pi data:
+power = 5
+source = 0
+temperature = 47.8
+Check successful.
+[completed in 1.7s]
+#############################################
