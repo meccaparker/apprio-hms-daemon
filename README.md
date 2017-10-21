@@ -33,3 +33,11 @@ bash /home/pi/apprio-hms-server/init_server.sh &
 exit 0
 ``` 
 
+## Notable files
+
+- sp_daemon.py
+- pi_daemon.py
+- serial_handler.py
+- db_check.js
+- config/config_daemon.py
+
